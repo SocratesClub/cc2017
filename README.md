@@ -10,7 +10,7 @@
 - 时间：周四 第5-8节 仙Ⅱ-117 **单**周
 - 教师：王成军 
 
-王成军，南京大学新闻传播学院助理研究员，奥美数据科学实验室主任，南京大学计算传播学实验中心成员、香港城市大学Web Mining Lab成员。
+[王成军](http://chengjun.github.io)，南京大学新闻传播学院助理研究员，奥美数据科学实验室主任，南京大学计算传播学实验中心成员、香港城市大学Web Mining Lab成员。
 
 ## 课程内容
 
@@ -29,8 +29,9 @@
 
 
 ## 参考书（Recommended Textbooks） 
-- Easley, David and Jon Kleinberg. 2011.[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/). New York: Cambridge University. 大卫・伊斯利, & 乔恩・克莱因伯格. (2011). [网络、群体与市场](https://www.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E3%80%81%E7%BE%A4%E4%BD%93%E4%B8%8E%E5%B8%82%E5%9C%BA):揭示高度互联世界的行为原理与效应机制. 清华大学出版社.
-- 许小可、胡海波、张伦、王成军 （2015）社交网络上的计算传播学. 高等教育出版社， 北京
+- Easley, David and [Jon Kleinberg](http://www.cs.cornell.edu/home/kleinber/). 2011.[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/). New York: Cambridge University. 大卫・伊斯利, & 乔恩・克莱因伯格. (2011). [网络、群体与市场](https://www.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E3%80%81%E7%BE%A4%E4%BD%93%E4%B8%8E%E5%B8%82%E5%9C%BA):揭示高度互联世界的行为原理与效应机制. 清华大学出版社.
+- 许小可、胡海波、张伦、王成军 （2015）社交网络上的计算传播学. 北京: 高等教育出版社.
+- 刘鹏, 王超. (2015). 计算广告. 人民邮电出版社.
 
 ## 阅读文献
 - *第一周*
