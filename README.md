@@ -20,13 +20,12 @@
         - Duncan J. Watts. Should social science be more solution-oriented? Nature Human Behaviour. 1, 0015 (2017) doi:10.1038/s41562-016-0015
 
 2. 计算社会科学的编程工具
-3. 网络科学中的三元闭包、同质现象、正负关系
-4. 
-5. 
-6. 
-7. 
-8. 
-
+3. 网络科学基础（三元闭包、同质现象、正负关系）
+4. 万维网结构与链接分析
+5. 小世界网络模型与幂律分布
+6. 计算广告基础（博弈、匹配、拍卖）
+7. 计算广告机制与应用
+8. 学生项目介绍
 
 ## 参考书（Recommended Textbooks） 
 - Easley, David and Jon Kleinberg. 2011. Networks, Crowds, and Markets: Reasoning About a Highly Connected World. New York: Cambridge University
