@@ -24,4 +24,5 @@
 
 ## 相关课程
 
-复旦大学新媒体硕士项目《计算新闻传播学》2016  https://github.com/computational-class/cjc2016
+- 复旦大学新媒体硕士项目《计算新闻传播学》2016课程  https://github.com/computational-class/cjc2016
+- 南京大学《数据新闻》2016课程 https://github.com/data-journalism/dj2016
