@@ -19,8 +19,8 @@
         - 王成军, 计算传播学的起源、概念和应用[J]. 编辑学刊, 2016(3): 第59-64页.
         - Duncan J. Watts. Should social science be more solution-oriented? Nature Human Behaviour. 1, 0015 (2017) doi:10.1038/s41562-016-0015
 
-2. 
-3. 
+2. 计算社会科学的编程工具
+3. 网络科学中的三元闭包、同质现象、正负关系
 4. 
 5. 
 6. 
