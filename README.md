@@ -6,11 +6,11 @@
 
 
 1. 引言：计算传播简介/课程简介
-- 阅读文献
-    - Watts, D.J., A twenty-first century science. Nature, 2007. 445(7127): p. 489-489.
-    - Lazer, D., et al., Life in the network: The coming age of computational social science. Science, 2009. 323(5915): p. 721.
-    - 王成军, 计算传播学:作为计算社会科学的传播学[J]. 中国网络传播研究, 2014. 第193-206页
-    - 王成军, 计算传播学的起源、概念和应用[J]. 编辑学刊, 2016(3): 第59-64页.
+    - 阅读文献
+        - Watts, D.J., A twenty-first century science. Nature, 2007. 445(7127): p. 489-489.
+        - Lazer, D., et al., Life in the network: The coming age of computational social science. Science, 2009. 323(5915): p. 721.
+        - 王成军, 计算传播学:作为计算社会科学的传播学[J]. 中国网络传播研究, 2014. 第193-206页
+        - 王成军, 计算传播学的起源、概念和应用[J]. 编辑学刊, 2016(3): 第59-64页.
 
 2. 
 3. 
