@@ -28,6 +28,10 @@
 8. 
 
 
+## 参考书（Recommended Textbooks） 
+- Easley, David and Jon Kleinberg. 2011. Networks, Crowds, and Markets: Reasoning About a Highly Connected World. New York: Cambridge University
+- 许小可、胡海波、张伦、王成军 （2015）社交网络上的计算传播学. 高等教育出版社， 北京
+
 ## 相关课程
 
 - 复旦大学新媒体硕士项目《计算新闻传播学》2016课程  https://github.com/computational-class/cjc2016
