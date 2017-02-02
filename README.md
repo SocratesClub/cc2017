@@ -6,6 +6,7 @@
 
 
 1. 引言：计算传播简介/课程简介
+
   - 阅读文献
     - Watts, D.J., A twenty-first century science. Nature, 2007. 445(7127): p. 489-489.
     - Lazer, D., et al., Life in the network: The coming age of computational social science. Science, 2009. 323(5915): p. 721.
