@@ -40,6 +40,10 @@
     - 王成军, 计算传播学:作为计算社会科学的传播学[J]. 中国网络传播研究, 2014. 第193-206页
     - 王成军, 计算传播学的起源、概念和应用[J]. 编辑学刊, 2016(3): 第59-64页.
     - Duncan J. Watts. Should social science be more solution-oriented? Nature Human Behaviour. 1, 0015 (2017) doi:10.1038/s41562-016-0015
+- *第三周*
+    - [Slides: How I Quit My Ph.D. and Learned to Love Data Science](http://tdhopper.com/blog/2017/Feb/14/how-i-quit-my-ph.d.-and-learned-to-love-data-science/)
+    - 维克托•迈尔•舍恩伯格（Viktor Mayer-Schönberger） 大数据时代：生活、工作与思维的大变革, 浙江人民出版社
+    - [Beginning Python](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=beginning%20python)
 
 ## 相关课程
 
