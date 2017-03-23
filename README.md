@@ -47,6 +47,7 @@
     - [Beginning Python](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=beginning%20python)
     - `Everybody in this country should learn how to program a computer, because it teaches you how to think. Steve Jobs`
 - *第五周*
+
     - 《网络群体与市场》第1、2、3章   
     - Onnela, Structure and tie strength in mobile communication networks, PNAS 2007
 
