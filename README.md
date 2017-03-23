@@ -50,8 +50,20 @@
 
 - *第五周*
     - 《网络群体与市场》第1、2、3章
+- *第七周*
+    - 《网络群体与市场》第13、14章
+- *第九周*
+    - 《网络群体与市场》第18、20、21章 
+- *第十一周*
+    -  [使用networkx分析网络结构](http://nbviewer.jupyter.org/github/computational-class/cjc/blob/gh-pages/slides/17.networkx.slides.html#/)
+- *第十三周*
+    - 《网络群体与市场》第6、9、10章
+- *第十五周*
+    - 《网络群体与市场》第15章
+    - [推荐系统简介](http://nbviewer.jupyter.org/github/computational-class/cjc/blob/gh-pages/slides/13.recsys_intro.slides.html#/)
+- *第十七周*
+    - 学生作品展示
     
-    
 ## 相关课程
 
 - 复旦大学新媒体硕士项目《计算新闻传播学》课程  https://github.com/computational-class/cjc
