@@ -46,8 +46,6 @@
     - 维克托•迈尔•舍恩伯格（Viktor Mayer-Schönberger） 大数据时代：生活、工作与思维的大变革, 浙江人民出版社
     - [Beginning Python](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=beginning%20python)
 
-> Everybody in this country should learn how to program a computer, because it teaches you how to think. Steve Jobs
-
 - *第五周*
     - 《网络群体与市场》第1、2、3章
     
