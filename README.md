@@ -34,6 +34,7 @@
 - 刘鹏, 王超. (2015). 计算广告. 人民邮电出版社.
 
 ## 阅读文献
+
 - *第一周*
     - Watts, D.J., A twenty-first century science. Nature, 2007. 445(7127): p. 489-489.
     - Lazer, D., et al., Life in the network: The coming age of computational social science. Science, 2009. 323(5915): p. 721.
@@ -47,6 +48,8 @@
     - `Everybody in this country should learn how to program a computer, because it teaches you how to think. Steve Jobs`
 - *第五周*
     - 《网络群体与市场》第1、2、3章   
+    - Onnela, Structure and tie strength in mobile communication networks, PNAS 2007
+
 - *第七周*
     - 《网络群体与市场》第13、14章  
 - *第九周*
