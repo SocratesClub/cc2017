@@ -49,11 +49,18 @@
 - *第五周*
 
     - Onnela, Structure and tie strength in mobile communication networks, PNAS 2007
+    - Christakis, N. A., & Fowler, J. H. (2007). The spread of obesity in a large social network over 32 years. New England journal of medicine, 357(4), 370-379.
     - 网络群体与市场 第1、2、3章   
 
 - *第七周*
+    - Broder, A., Kumar, R., Maghoul, F., Raghavan, P., Rajagopalan, S., Stata, R., Tomkins, A. and Wiener, J., 2000. Graph structure in the web. Computer networks, 33(1), pp.309-320.
+    - Kleinberg, J.M., 1999. Authoritative sources in a hyperlinked environment. Journal of the ACM (JACM), 46(5), pp.604-632.
+    - Page, L., Brin, S., Motwani, R. and Winograd, T., 1999. The PageRank citation ranking: Bringing order to the web. Stanford InfoLab.
     - 网络群体与市场 第13、14章  
 - *第九周*
+    - Barabási, A.L. and Albert, R., 1999. Emergence of scaling in random networks. science, 286(5439), pp.509-512.
+    - Watts, D.J. and Strogatz, S.H., 1998. Collective dynamics of ‘small-world’networks. nature, 393(6684), pp.440-442.
+    - Kleinberg, J.M., 2000. Navigation in a small world. Nature, 406(6798), pp.845-845.
     - 网络群体与市场 第18、20、21章  
 - *第十一周*
     -  [使用networkx分析网络结构](http://nbviewer.jupyter.org/github/computational-class/cjc/blob/gh-pages/slides/17.networkx.slides.html#/)
@@ -68,7 +75,11 @@
 ## 阅读分享顺序（每周两名同学）
 
 1. 131020008	 钱超峰 131140022	 杨洛君
+    - Watts, D.J., A twenty-first century science. Nature, 2007. 445(7127): p. 489-489.
+    - Lazer, D., et al., Life in the network: The coming age of computational social science. Science, 2009. 323(5915): p. 721.
 1. 151050013	 丁紫琪 151050035	 匡卉
+    - Onnela, Structure and tie strength in mobile communication networks, PNAS 2007
+    - 
 1. 151050042	 李亦玄 151050043	 李媛媛
 1. 151050044	 李月 151050069	 王浩成
 1. 151050084	 夏娇娇 151050093	 遇晗
