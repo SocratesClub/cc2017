@@ -62,7 +62,7 @@
     - Barabási, A.L. and Albert, R., 1999. Emergence of scaling in random networks. science, 286(5439), pp.509-512.
     - Watts, D.J. and Strogatz, S.H., 1998. Collective dynamics of ‘small-world’networks. nature, 393(6684), pp.440-442.
     - Kleinberg, J.M., 2000. Navigation in a small world. Nature, 406(6798), pp.845-845.
-    - 网络群体与市场 第18、20、21章  
+    - 网络群体与市场 第18、20、21章  
     
 - *第十一周*
     - Albert, R., Jeong, H. and Barabási, A.L., 1999. Internet: Diameter of the world-wide web. nature, 401(6749), pp.130-131.
