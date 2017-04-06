@@ -48,6 +48,7 @@
     - `Everybody in this country should learn how to program a computer, because it teaches you how to think. Steve Jobs`
 - *第五周*
     - Onnela, Structure and tie strength in mobile communication networks, PNAS 2007
+    - Kossinets, G. and Watts, D.J., 2006. Empirical analysis of an evolving social network. science, 311(5757), pp.88-90.
     - Christakis, N. A., & Fowler, J. H. (2007). The spread of obesity in a large social network over 32 years. New England journal of medicine, 357(4), 370-379.
     - 网络群体与市场 第1、2、3章   
     
