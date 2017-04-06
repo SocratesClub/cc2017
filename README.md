@@ -22,10 +22,10 @@
 | 3 | 3月23日 | 14:00-18:00 |  网络科学基础（三元闭包、同质现象、正负关系） | 4学时|
 | 4 | 4月6日 | 14:00-18:00 | 万维网结构与链接分析 | 4学时|
 | 5 | 4月20日| 14:00-18:00 | 小世界网络模型与幂律分布| 4学时|
-| 6 | 5月4日 | 14:00-18:00 | 使用NetworkX分析网络结构 | 4学时|
-| 7 | 5月18日 | 14:00-18:00 | 计算广告基础（博弈、匹配、拍卖） | 4学时|
-| 8 | 6月1日 | 14:00-18:00 | 计算广告的机制与推荐系统 | 4学时|
-| 9 | 6月15日 | 14:00-18:00 | 学生项目介绍 | 4学时|
+| 6 | 5月4日 | 14:00-18:00 | 学生项目介绍 | 4学时|
+| 7 | 5月18日 | 14:00-18:00 | 使用NetworkX分析网络结构| 4学时|
+| 8 | 6月1日 | 14:00-18:00 | 计算广告基础（博弈、匹配、拍卖） | 4学时|
+| 9 | 6月15日 | 14:00-18:00 |计算广告的机制与推荐系统  | 4学时|
 
 
 ## 参考书（Recommended Textbooks） 
@@ -57,6 +57,8 @@
     - Kleinberg, J.M., 1999. Authoritative sources in a hyperlinked environment. Journal of the ACM (JACM), 46(5), pp.604-632.
     - Page, L., Brin, S., Motwani, R. and Winograd, T., 1999. The PageRank citation ranking Bringing order to the web. Stanford InfoLab.
 
+- *第十一周*
+    - 学生项目介绍
     
 - *第九周*
     - Barabási, A.L. and Albert, R., 1999. Emergence of scaling in random networks. science, 286(5439), pp.509-512.
@@ -64,20 +66,19 @@
     - Kleinberg, J.M., 2000. Navigation in a small world. Nature, 406(6798), pp.845-845.
     - 网络群体与市场 第18、20、21章  
     
-- *第十一周*
+- *第十三周*
     - Albert, R., Jeong, H. and Barabási, A.L., 1999. Internet: Diameter of the world-wide web. nature, 401(6749), pp.130-131.
     - 使用networkx分析网络结构 http://nbviewer.jupyter.org/github/computational-class/cjc/blob/gh-pages/slides/17.networkx.slides.html#/
-- *第十三周*
+- *第十五周*
     - Vickrey, W., 1961. Counterspeculation, auctions, and competitive sealed tenders. The Journal of finance, 16(1), pp.8-37.
     - Demange, G., Gale, D. and Sotomayor, M., 1986. Multi-item auctions. Journal of Political Economy, 94(4), pp.863-872.
     - 网络群体与市场 第6、9、10章   
-- *第十五周*
+- *第十七周*
     - Edelman, B., Ostrovsky, M. and Schwarz, M., 2007. Internet advertising and the generalized second-price auction: Selling billions of dollars worth of keywords. The American economic review, 97(1), pp.242-259.
     - Varian, H.R., 2007. Position auctions. international Journal of industrial Organization, 25(6), pp.1163-1178.
     - 网络群体与市场 第15章
     - 推荐系统简介 http://nbviewer.jupyter.org/github/computational-class/cjc/blob/gh-pages/slides/13.recsys_intro.slides.html#/
-- *第十七周*
-    - 学生作品展示
+
     
 ## 阅读分享顺序（每周两名同学）
 
