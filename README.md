@@ -52,10 +52,11 @@
     - 网络群体与市场 第1、2、3章   
     
 - *第七周*
+    - 网络群体与市场 第13、14章
     - Broder, A., Kumar, R., Maghoul, F., Raghavan, P., Rajagopalan, S., Stata, R., Tomkins, A. and Wiener, J., 2000. Graph structure in the web. Computer networks, 33(1), pp.309-320.
     - Kleinberg, J.M., 1999. Authoritative sources in a hyperlinked environment. Journal of the ACM (JACM), 46(5), pp.604-632.
     - Page, L., Brin, S., Motwani, R. and Winograd, T., 1999. The PageRank citation ranking Bringing order to the web. Stanford InfoLab.
-    * 网络群体与市场 第13、14章  
+
     
 - *第九周*
     - Barabási, A.L. and Albert, R., 1999. Emergence of scaling in random networks. science, 286(5439), pp.509-512.
@@ -64,8 +65,8 @@
     - 网络群体与市场 第18、20、21章  
     
 - *第十一周*
-    - Albert, R., Jeong, H. and Barabási, A.L., 1999. Internet: Diameter of the world-wide web. nature, 401(6749), pp.130-131.
     - [使用networkx分析网络结构](http://nbviewer.jupyter.org/github/computational-class/cjc/blob/gh-pages/slides/17.networkx.slides.html#/)
+    - Albert, R., Jeong, H. and Barabási, A.L., 1999. Internet: Diameter of the world-wide web. nature, 401(6749), pp.130-131.
 - *第十三周*
     - Vickrey, W., 1961. Counterspeculation, auctions, and competitive sealed tenders. The Journal of finance, 16(1), pp.8-37.
     - Demange, G., Gale, D. and Sotomayor, M., 1986. Multi-item auctions. Journal of Political Economy, 94(4), pp.863-872.
