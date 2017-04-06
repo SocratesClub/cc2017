@@ -55,11 +55,13 @@
     - Kleinberg, J.M., 1999. Authoritative sources in a hyperlinked environment. Journal of the ACM (JACM), 46(5), pp.604-632.
     - Page, L., Brin, S., Motwani, R. and Winograd, T., 1999. The PageRank citation ranking: Bringing order to the web. Stanford InfoLab.
     - 网络群体与市场 第13、14章  
+    
 - *第九周*
     - Barabási, A.L. and Albert, R., 1999. Emergence of scaling in random networks. science, 286(5439), pp.509-512.
     - Watts, D.J. and Strogatz, S.H., 1998. Collective dynamics of ‘small-world’networks. nature, 393(6684), pp.440-442.
     - Kleinberg, J.M., 2000. Navigation in a small world. Nature, 406(6798), pp.845-845.
     - 网络群体与市场 第18、20、21章  
+    
 - *第十一周*
     - Albert, R., Jeong, H. and Barabási, A.L., 1999. Internet: Diameter of the world-wide web. nature, 401(6749), pp.130-131.
     - [使用networkx分析网络结构](http://nbviewer.jupyter.org/github/computational-class/cjc/blob/gh-pages/slides/17.networkx.slides.html#/)
