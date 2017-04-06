@@ -98,7 +98,7 @@
     - Kleinberg, J.M., 2000. Navigation in a small world. Nature, 406(6798), pp.845-845.
 1. 151120166	 张昕沂 131050016	 伏倩    
     - Albert, R., Jeong, H. and Barabási, A.L., 1999. Internet: Diameter of the world-wide web. nature, 401(6749), pp.130-131.
-    - Edelman, B., Ostrovsky, M. and Schwarz, M., 2007. Internet advertising and the generalized second-price auction: Selling billions of dollars worth of keywords. The American economic review, 97(1), pp.242-259.
+    - Edelman, B., Ostrovsky, M. and Schwarz, M., 2007. Internet advertising and the generalized second-price auction: Selling billions of dollars worth of keywords. The American economic review, 97(1), pp.242-259.
     
 ## 相关课程
 
