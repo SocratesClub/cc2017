@@ -65,8 +65,8 @@
     - 网络群体与市场 第18、20、21章  
     
 - *第十一周*
-    - 使用networkx分析网络结构 http://nbviewer.jupyter.org/github/computational-class/cjc/blob/gh-pages/slides/17.networkx.slides.html#/
     - Albert, R., Jeong, H. and Barabási, A.L., 1999. Internet: Diameter of the world-wide web. nature, 401(6749), pp.130-131.
+    - 使用networkx分析网络结构 http://nbviewer.jupyter.org/github/computational-class/cjc/blob/gh-pages/slides/17.networkx.slides.html#/
 - *第十三周*
     - Vickrey, W., 1961. Counterspeculation, auctions, and competitive sealed tenders. The Journal of finance, 16(1), pp.8-37.
     - Demange, G., Gale, D. and Sotomayor, M., 1986. Multi-item auctions. Journal of Political Economy, 94(4), pp.863-872.
@@ -77,7 +77,7 @@
     - 网络群体与市场 第15章
     - 推荐系统简介 http://nbviewer.jupyter.org/github/computational-class/cjc/blob/gh-pages/slides/13.recsys_intro.slides.html#/
 - *第十七周*
-    - 学生作品展示
+    - 学生作品展示
     
 ## 阅读分享顺序（每周两名同学）
 
