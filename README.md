@@ -68,6 +68,8 @@
     - Demange, G., Gale, D. and Sotomayor, M., 1986. Multi-item auctions. Journal of Political Economy, 94(4), pp.863-872.
     - 网络群体与市场 第6、9、10章   
 - *第十五周*
+    - Edelman, B., Ostrovsky, M. and Schwarz, M., 2007. Internet advertising and the generalized second-price auction: Selling billions of dollars worth of keywords. The American economic review, 97(1), pp.242-259.
+    - Varian, H.R., 2007. Position auctions. international Journal of industrial Organization, 25(6), pp.1163-1178.
     - 网络群体与市场 第15章
     - [推荐系统简介](http://nbviewer.jupyter.org/github/computational-class/cjc/blob/gh-pages/slides/13.recsys_intro.slides.html#/)
 - *第十七周*
