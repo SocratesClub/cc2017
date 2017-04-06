@@ -51,7 +51,7 @@
     - Christakis, N. A., & Fowler, J. H. (2007). The spread of obesity in a large social network over 32 years. New England journal of medicine, 357(4), 370-379.
     - 网络群体与市场 第1、2、3章   
     
-- 第七周
+- *第七周*
     - Broder, A., Kumar, R., Maghoul, F., Raghavan, P., Rajagopalan, S., Stata, R., Tomkins, A. and Wiener, J., 2000. Graph structure in the web. Computer networks, 33(1), pp.309-320.
     - Kleinberg, J.M., 1999. Authoritative sources in a hyperlinked environment. Journal of the ACM (JACM), 46(5), pp.604-632.
     - Page, L., Brin, S., Motwani, R. and Winograd, T., 1999. The PageRank citation ranking: Bringing order to the web. Stanford InfoLab.
@@ -69,12 +69,12 @@
 - *第十三周*
     - Vickrey, W., 1961. Counterspeculation, auctions, and competitive sealed tenders. The Journal of finance, 16(1), pp.8-37.
     - Demange, G., Gale, D. and Sotomayor, M., 1986. Multi-item auctions. Journal of Political Economy, 94(4), pp.863-872.
-    - 网络群体与市场 第6、9、10章   
+    - 网络群体与市场 第6、9、10章   
 - *第十五周*
     - Edelman, B., Ostrovsky, M. and Schwarz, M., 2007. Internet advertising and the generalized second-price auction: Selling billions of dollars worth of keywords. The American economic review, 97(1), pp.242-259.
     - Varian, H.R., 2007. Position auctions. international Journal of industrial Organization, 25(6), pp.1163-1178.
     - 网络群体与市场 第15章
-    - [推荐系统简介](http://nbviewer.jupyter.org/github/computational-class/cjc/blob/gh-pages/slides/13.recsys_intro.slides.html#/)
+    - [推荐系统简介](http://nbviewer.jupyter.org/github/computational-class/cjc/blob/gh-pages/slides/13.recsys_intro.slides.html#/)
 - *第十七周*
     - 学生作品展示
     
