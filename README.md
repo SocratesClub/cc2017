@@ -50,7 +50,8 @@
     - Onnela, Structure and tie strength in mobile communication networks, PNAS 2007
     - Christakis, N. A., & Fowler, J. H. (2007). The spread of obesity in a large social network over 32 years. New England journal of medicine, 357(4), 370-379.
     - 网络群体与市场 第1、2、3章   
-- *第七周*
+    
+- 第七周
     - Broder, A., Kumar, R., Maghoul, F., Raghavan, P., Rajagopalan, S., Stata, R., Tomkins, A. and Wiener, J., 2000. Graph structure in the web. Computer networks, 33(1), pp.309-320.
     - Kleinberg, J.M., 1999. Authoritative sources in a hyperlinked environment. Journal of the ACM (JACM), 46(5), pp.604-632.
     - Page, L., Brin, S., Motwani, R. and Winograd, T., 1999. The PageRank citation ranking: Bringing order to the web. Stanford InfoLab.
@@ -96,7 +97,8 @@
     - Kleinberg, J.M., 2000. Navigation in a small world. Nature, 406(6798), pp.845-845.
 1. 151120166	 张昕沂 131050016	 伏倩    
     - Albert, R., Jeong, H. and Barabási, A.L., 1999. Internet: Diameter of the world-wide web. nature, 401(6749), pp.130-131.
-    
+    - Edelman, B., Ostrovsky, M. and Schwarz, M., 2007. Internet advertising and the generalized second-price auction: Selling billions of dollars worth of keywords. The American economic review, 97(1), pp.242-259.
+    
 ## 相关课程
 
 - 复旦大学新媒体硕士项目《计算新闻传播学》课程  https://github.com/computational-class/cjc
