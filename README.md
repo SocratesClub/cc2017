@@ -58,7 +58,7 @@
     - Page, L., Brin, S., Motwani, R. and Winograd, T., 1999. The PageRank citation ranking Bringing order to the web. Stanford InfoLab.
 
 - *第十一周*
-    - 学生项目介绍
+    - 学生项目介绍
     
 - *第九周*
     - Barabási, A.L. and Albert, R., 1999. Emergence of scaling in random networks. science, 286(5439), pp.509-512.
